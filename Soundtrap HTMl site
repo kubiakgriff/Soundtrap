@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html>
 
+  <head> 
+	<title>SOUNDTRAP - CONTROL V1.1</title> 
+	<style type="text/css"><!--
+	
+	--></style>
+	<link href="./main.css" rel="stylesheet" type "text/css"></link>
+  </head>
+		<h4>ZONE METERS</h4>
+  <body>
+  
+		<div id="wrapper"> 
+		
+		<a href="Unit Control.html">
+			<button><p style="color:black;"><p style="background-color:grey;">UNIT CONTROL</p></button>
+		</a>	
+		
+		<a href="Site Layout.html">
+			<button><p style="color:black;"><p style="background-color:grey;">SITE LAYOUT</button>
+		</a>
+		
+		<a href="IP Config.html">
+			<button><p style="color:black;"><p style="background-color:grey;">IP CONFIG</button>
+		</a>
+ 
+		<button>MUTE</button> 
+</html>
+  
